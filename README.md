@@ -1,5 +1,4 @@
 The project involves designing and developing three interactive Power BI dashboards for a car rental company. The dashboards provide real-time insights into bookings, revenue trends, fleet performance, and customer transactions. The visualizations aim improve operational efficiency, and track important KPIs across various dimensions of the business
-
 ## 🎯 Objectives
 - Track bookings and revenue performance
 - Monitor fleet size and utilization
